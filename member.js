@@ -1,0 +1,26 @@
+function skillsMember() {
+    var member = document.getElementById("member");
+    var memberValue = member.options[member.selectedIndex].value;
+    var memberText = member.options[member.selectedIndex].text;
+    var memberSkills = document.getElementById("memberSkills");
+    var memberSkillsValue = memberSkills.options[memberSkills.selectedIndex].value;
+    var memberSkillsText = memberSkills.options[memberSkills.selectedIndex].text;
+    var memberSkillsList = document.getElementById("memberSkillsList");
+    var memberSkillsListValue = memberSkillsList.options[memberSkillsList.selectedIndex].value;
+    var memberSkillsListText = memberSkillsList.options[memberSkillsList.selectedIndex].text;
+    var memberSkillsListTextValue = memberSkillsList.options[memberSkillsList.selectedIndex].text;
+    var memberSkillsListTextText = memberSkillsList.options[memberSkillsList.selectedIndex].text;
+    var memberSkillsListTextTextValue = memberSkillsList.options[memberSkillsList.selectedIndex].text;
+    var memberSkillsListTextTextText = memberSkillsList.options[memberSkillsList.selectedIndex].text;
+    var memberSkillsListTextTextTextValue = memberSkillsList.options[memberSkillsList.selectedIndex].text;
+    var memberSkillsListTextTextTextText = memberSkillsList.options[memberSkillsList.selectedIndex].text;
+    var memberSkillsListTextTextTextTextValue = memberSkillsList.options[memberSkillsList.selectedIndex].text;
+    var memberSkillsListTextTextTextTextText = memberSkillsList.options[memberSkillsList.selectedIndex].text;
+    var memberSkillsListTextTextTextTextTextValue = memberSkillsList.options[memberSkillsList.selectedIndex].text;
+    var memberSkillsListTextTextTextTextTextText = memberSkillsList.options[memberSkillsList.selectedIndex].text;
+    var memberSkillsListTextTextTextTextTextTextValue = memberSkillsList.options[memberSkillsList.selectedIndex].text;
+    var memberSkillsListTextTextTextTextTextTextText = memberSkillsList.options[memberSkillsList.selectedIndex].text;
+    var memberSkillsListTextTextTextTextTextTextTextValue = memberSkillsList.options[memberSkillsList.selectedIndex].text;
+    var memberSkillsListTextTextTextTextTextTextTextText = memberSkillsList.options[memberSkillsList.selectedIndex].text;
+    var memberSkillsListTextTextTextTextTextTextTextTextValue = memberSkillsList.options[memberSkillsList.selectedIndex].text;
+    var memberSkillsListTextTextTextTextTextTextTextTextText = memberSkillsList.options
